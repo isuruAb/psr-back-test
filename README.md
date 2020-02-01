@@ -8,10 +8,10 @@ https://github.com/isuruAb/psr-front-test
 
 ## Start
 
-Clone the repository : `git clone https://github.com/isuruAb/psr-back-test.git`
-Get copy of ".env.example" and rename it as ".env"
-Update "DB_PORT", "DB_DATABASE","DB_HOST","DB_USERNAME","DB_PASSWORD". (You should have mysql and we)
-start application: `php artisan serve`
+* Clone the repository : `git clone https://github.com/isuruAb/psr-back-test.git`
+* Get copy of ".env.example" and rename it as ".env"
+* Update "DB_PORT", "DB_DATABASE","DB_HOST","DB_USERNAME","DB_PASSWORD". (You should have mysql and we)
+* start application: `php artisan serve`
 
 ## Prerequisites:
 
