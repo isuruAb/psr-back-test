@@ -4,7 +4,7 @@ Paper Scissor Rock is a hand game usually played between two people, in which ea
 
 ## Frontend application
 
-(Link)[https://github.com/isuruAb/psr-front-test]
+https://github.com/isuruAb/psr-front-test
 
 ## Start
 
